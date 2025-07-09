@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ---
-
+![](https://www.gloify.com/blog/wp-content/uploads/2020/11/Blog-june-2023-07-28T184114.567-1210x617.png)
 ## 📖 Project Overview
 
 This project builds a **binary classification model** to predict whether an e-commerce user session will generate revenue. Using session-level behavioral data, technical environment metadata, and temporal features, the model assists business analysts in identifying high-value visits.
